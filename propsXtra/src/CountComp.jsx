@@ -1,5 +1,5 @@
 export default function CountComp({handleReset, count}){
     return (
-        <h2 onClick={handleReset}>{count}</h2>
+        <h2 className="h2 hover-trigger" onClick={handleReset}>{count}</h2>
     );
 }
