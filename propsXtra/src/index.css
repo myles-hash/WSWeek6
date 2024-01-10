@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: bisque;
+    font-family: monospace;
+    text-align: center;
+    font-size: 2rem;
+}
+
+button {
+    padding: 2rem;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 50%;
+    height: 6rem;
+    margin: 2rem;
+}
+
+.button-container {
+    text-align: center;
+  }
